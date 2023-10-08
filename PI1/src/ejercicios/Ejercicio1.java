@@ -34,7 +34,7 @@ public class Ejercicio1 {
 	    }
 
 	    // Aplicar la función nx
-		ESTO ES UN CAMBIO DE PRUEBAaa
+		
 	    actual = EnteroCadena.of(actual.a() + 3, actual.a() % 2 == 0 ? actual.a() + "*" : actual.a() + "!");
 
 	    // Filtrar y mapear
